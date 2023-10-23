@@ -1,0 +1,4 @@
+yfinance==0.2.31
+pyautogui==0.9.54
+pyperclip==1.8.2
+python-decouple==3.8
